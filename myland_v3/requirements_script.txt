@@ -1,0 +1,6 @@
+# Para rodar o script pdf_to_preview.py
+# Execute no terminal:
+#   pip install pymupdf pillow
+
+pymupdf>=1.23.0
+pillow>=10.0.0
